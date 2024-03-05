@@ -19,7 +19,7 @@ class Program
         }
 
         return false; // Número não pertence
-
+    }
     static void Main()
     {
         Console.Write("Informe um número: ");
